@@ -6,7 +6,7 @@ GoRoutine을 활용한 **FAST SCRAPER**
 
 고루틴을 활용해 아래 3가지 기능을 `Concurrent`하게 처리합니다.
 
-![goscrapper](./README.assets/goscrapper.jpg)
+![goscrapper](README.assets/goscrapper.jpg)
 
 ### 1. Page Hit
 
